@@ -111,7 +111,7 @@ export default function ConceptArtSection() {
           <div className="inline-block bg-gradient-to-br from-amber-900/60 to-orange-900/60 backdrop-blur-sm border border-amber-400/20 rounded-xl p-6 shadow-lg">
             <p className="text-amber-200 font-semibold mb-2">Estilo Visual Único</p>
             <p className="text-amber-100/80">
-              Cada frame do jogo é cuidadosamente crafted em pixel art para transmitir emoção e atmosfera.
+              Cada frame do jogo é cuidadosamente criado em pixel art para transmitir emoção e atmosfera.
             </p>
           </div>
         </motion.div>
