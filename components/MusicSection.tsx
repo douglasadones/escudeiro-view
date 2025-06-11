@@ -14,7 +14,7 @@ const soundtracks = [
     title: "City Theme",
     description: "Tema principal da cidade, transmitindo a atmosfera medieval e misteriosa.",
     fileName: "city-theme.mp3",
-    duration: "2:45",
+    duration: "0:38",
     composer: "Biaggio Cardoso",
   },
   {
@@ -22,7 +22,7 @@ const soundtracks = [
     title: "City Theme (Jogo Pausado)",
     description: "Versão mais suave e contemplativa do tema da cidade quando o jogo está pausado.",
     fileName: "city-theme-paused.mp3",
-    duration: "2:45",
+    duration: "0:38",
     composer: "Douglas Adones",
   },
   {
@@ -30,7 +30,7 @@ const soundtracks = [
     title: "Cave Theme",
     description: "Música sombria e tensa que acompanha a exploração das cavernas.",
     fileName: "cave-theme.mp3",
-    duration: "3:12",
+    duration: "2:03",
     composer: "Douglas Adones",
   },
   {
@@ -38,7 +38,7 @@ const soundtracks = [
     title: "Cave Theme (Jogo Pausado)",
     description: "Versão ambiente do tema da caverna durante a pausa do jogo.",
     fileName: "cave-theme-paused.mp3",
-    duration: "3:12",
+    duration: "2:03",
     composer: "Douglas Adones",
   },
   {
@@ -46,7 +46,7 @@ const soundtracks = [
     title: "Ending Theme",
     description: "Tema emocionante que marca o final da jornada do Escudeiro.",
     fileName: "ending-theme.mp3",
-    duration: "4:30",
+    duration: "4:31",
     composer: "Douglas Adones",
   },
   {
@@ -54,7 +54,7 @@ const soundtracks = [
     title: "Barbara's Theme",
     description: "Tema da guerreira Bárbara, refletindo sua nobreza e determinação.",
     fileName: "barbaras-theme.mp3",
-    duration: "3:05",
+    duration: "1:40",
     composer: "Douglas Adones",
   },
   {
@@ -62,7 +62,7 @@ const soundtracks = [
     title: "Game Over Theme",
     description: "Música que toca quando o jogador falha em sua missão.",
     fileName: "game-over-theme.mp3",
-    duration: "1:20",
+    duration: "3:14",
     composer: "Biaggio Cardoso",
   },
   {
@@ -70,7 +70,7 @@ const soundtracks = [
     title: "Menu Theme",
     description: "Tema do menu principal, introduzindo o jogador ao mundo do jogo.",
     fileName: "menu-theme.mp3",
-    duration: "2:10",
+    duration: "2:23",
     composer: "Biaggio Cardoso",
   },
   {
@@ -78,7 +78,7 @@ const soundtracks = [
     title: "Capítulo Theme",
     description: "Música que marca o início de cada novo capítulo da história.",
     fileName: "capitulo-theme.mp3",
-    duration: "1:45",
+    duration: "0:18",
     composer: "Biaggio Cardoso",
   },
   {
@@ -86,9 +86,9 @@ const soundtracks = [
     title: "Battle Theme",
     description: "Tema intenso que acompanha os combates e momentos de ação.",
     fileName: "battle-theme.mp3",
-    duration: "3:30",
+    duration: "1:34",
     composer: "Biaggio Cardoso",
-  },
+  }
 ]
 
 // Componente de Player de Áudio
