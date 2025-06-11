@@ -28,7 +28,7 @@ const teamMembers = [
     category: "Roteiro",
     icon: <Pen size={32} />,
     color: "from-green-900 to-teal-900",
-    members: [{ name: "Anônimo", instagram: null }],
+    members: [{ name: "Verethragna", instagram: null }],
   },
   {
     category: "Arte",
