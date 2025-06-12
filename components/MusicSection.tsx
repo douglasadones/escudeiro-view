@@ -23,7 +23,7 @@ const soundtracks = [
     description: "Versão mais suave e contemplativa do tema da cidade quando o jogo está pausado.",
     fileName: "city-theme-paused.mp3",
     duration: "0:38",
-    composer: "Douglas Adones",
+    composer: "Biaggio Cardoso",
   },
   {
     id: "cave-theme",
